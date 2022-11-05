@@ -1,0 +1,7 @@
+{
+  "name": "cloud-upload-download",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
